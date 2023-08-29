@@ -9,5 +9,5 @@ downloaders:
   - "cm"
 useTunnel: false
 hooks:
-  install: "cd /c/Users/Mike\ Lamb/AppData/Roaming/helm/plugins/helm-push/scripts/install_plugin.sh"
-  update: "cd /c/Users/Mike\ Lamb/AppData/Roaming/helm/plugins/helm-push/scripts/install_plugin.sh"
+  install: "cd ~/AppData/Roaming/helm/plugins/helm-push/scripts/install_plugin.sh"
+  update: "cd ~/AppData/Roaming/helm/plugins/helm-push/scripts/install_plugin.sh"
